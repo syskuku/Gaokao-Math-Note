@@ -18,13 +18,13 @@ export default defineAdditionalConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+      pattern: 'https://github.com/syskuku/Gaokao-Math-Note/blob/main/docs/zh/config.ts',
       text: '在 GitHub 上编辑此页面'
     },
 
     footer: {
-      message: '基于 MIT 许可发布',
-      copyright: '版权所有 © 2019-至今 尤雨溪'
+      message: 'CC BY-NC-SA 4.0',
+      copyright: '版权所有 © 2025-至今 SYSKUKU研究部'
     },
 
     docFooter: {
@@ -61,30 +61,8 @@ export default defineAdditionalConfig({
 function nav(): DefaultTheme.NavItem[] {
   return [
     {
-      text: '指南',
-      link: '/zh/guide/what-is-vitepress',
-      activeMatch: '/zh/guide/'
-    },
-    {
-      text: '参考',
-      link: '/zh/reference/site-config',
-      activeMatch: '/zh/reference/'
-    },
-    {
       text: pkg.version,
       items: [
-        {
-          text: '1.6.4',
-          link: 'https://vuejs.github.io/vitepress/v1/zh/'
-        },
-        {
-          text: '更新日志',
-          link: 'https://github.com/vuejs/vitepress/blob/main/CHANGELOG.md'
-        },
-        {
-          text: '参与贡献',
-          link: 'https://github.com/vuejs/vitepress/blob/main/.github/contributing.md'
-        }
       ]
     }
   ]
