@@ -1,28 +1,42 @@
-# VitePress 📝💨
+# 高中数学快速上手文档 📘
 
-[![test](https://github.com/vuejs/vitepress/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/vuejs/vitepress/actions/workflows/test.yml)
-[![npm](https://img.shields.io/npm/v/vitepress/next)](https://www.npmjs.com/package/vitepress/v/next)
-[![nightly releases](https://img.shields.io/badge/nightly-releases-orange)](https://nightly.akryum.dev/vuejs/vitepress)
-[![chat](https://img.shields.io/badge/chat-discord-blue?logo=discord)](https://chat.vuejs.org)
+## 简介
+本项目旨在帮助同学们快速掌握高中数学的核心知识与解题技巧。  
+让数学变得像阅读开发文档一样简单！
+*本文档编辑者大多为高中生，可能会出现内容缺漏错误，且更新缓慢，请见谅* 
+**希望能够得到更多人的认可并贡献知识！**
+内容涵盖 **必修** 与 **选修** 部分的重点知识，适合：
+- 需要快速复习的同学  
+- 想要系统整理知识点的同学  
+- 备考时查缺补漏的同学  
 
----
+## 内容结构
+- **基础知识**  
+  - 数与式  
+  - 方程与函数  
+  - 三角函数  
+  - 立体几何  
+  - 数列  
+- **核心方法**  
+  - 常见解题思路  
+  - 高效计算技巧  
+  - 常考模型总结  
+- **练习与例题**  
+  - 典型例题解析  
+  - 高频考点训练  
 
-VitePress is a Vue-powered static site generator and a spiritual successor to [VuePress](https://vuepress.vuejs.org), built on top of [Vite](https://github.com/vitejs/vite).
+## 使用方法
+1. 按目录顺序阅读，循序渐进。  
+2. 遇到不会的题目，先对照知识点查找，再看例题讲解。  
+3. 建议配合练习本或错题本使用，及时记录。  
 
-## Documentation
+## 推荐学习方式
+- **每天 20~30 分钟**：短时高效学习  
+- **番茄钟法**：学习 25 分钟，休息 5 分钟  
+- **回顾与总结**：每周进行一次小复盘  
 
-To check out docs, visit [vitepress.dev](https://vitepress.dev).
+## 贡献
+如果你在阅读过程中发现错误或有改进建议，欢迎提交 Issue 或 PR。  
 
-## Changelog
-
-Detailed changes for each release are documented in the [CHANGELOG](https://github.com/vuejs/vitepress/blob/main/CHANGELOG.md).
-
-## Contribution
-
-Please make sure to read the [Contributing Guide](https://github.com/vuejs/vitepress/blob/main/.github/contributing.md) before making a pull request.
-
-## License
-
-[MIT](https://github.com/vuejs/vitepress/blob/main/LICENSE)
-
-Copyright (c) 2019-present, Yuxi (Evan) You
+## 许可
+本项目仅供学习交流使用，禁止用于任何商业用途。  
