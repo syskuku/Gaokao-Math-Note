@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: VitePress
-  text: 由 Vite 和 Vue 驱动的静态站点生成器
-  tagline: 将 Markdown 变成优雅的文档，只需几分钟
+  name: 高中数学
+  text: 让数学像阅读开发文档一样简单易懂
+  tagline: 高中数学入门到入门（bushi）
   actions:
     - theme: brand
       text: 什么是 VitePress?
