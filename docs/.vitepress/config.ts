@@ -13,7 +13,7 @@ import llmstxt from 'vitepress-plugin-llms'
 const prod = !!process.env.NETLIFY
 
 export default defineConfig({
-  title: 'VitePress',
+  title: '高中数学',
 
   rewrites: {
     'en/:rest*': ':rest*'
